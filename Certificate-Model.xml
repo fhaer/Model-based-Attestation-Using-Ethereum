@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="08.07.2019" time="18:59" database="adoxxdb" username="fha" adoversion="Version 5.1">
+<MODELS>
+<MODEL id="mod.12437" name="Cert-10711" version="" modeltype="Certificate" libtype="bp" applib="ADOxx 1.5 Dynamic Ethereum Model Attestation">
+<MODELATTRIBUTES>
+<ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Author" type="STRING">fha</ATTRIBUTE>
+<ATTRIBUTE name="Creation date" type="STRING">28.02.2019, 13:27</ATTRIBUTE>
+<ATTRIBUTE name="Date last changed" type="STRING">08.07.2019, 18:50:41</ATTRIBUTE>
+<ATTRIBUTE name="Last user" type="STRING">fha</ATTRIBUTE>
+<ATTRIBUTE name="Keywords" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Comment" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Model type" type="ENUMERATION">Current model</ATTRIBUTE>
+<ATTRIBUTE name="State" type="ENUMERATION">In process</ATTRIBUTE>
+<ATTRIBUTE name="Reviewed on" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Reviewed by" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Description" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Number of objects and relations" type="INTEGER">16</ATTRIBUTE>
+<ATTRIBUTE name="World area" type="STRING">w:29.14cm h:28.75cm minw:5cm minh:5cm</ATTRIBUTE>
+<ATTRIBUTE name="Grid" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Zoom" type="INTEGER">80</ATTRIBUTE>
+<ATTRIBUTE name="Viewable area" type="STRING">VIEW representation:graphic
+GRAPHIC x:-16 y:41 w:1003 h:573 scale:0.8
+TABLE
+</ATTRIBUTE>
+<ATTRIBUTE name="Current mode" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Base name" type="STRING">Cert-10711</ATTRIBUTE>
+<ATTRIBUTE name="Access state" type="ENUMERATION">write</ATTRIBUTE>
+<ATTRIBUTE name="Current page layout" type="STRING">LAYOUT &quot;Full page (without header/footer)&quot; orientation:printer scaletype:onepage factor:100 ppw:1 pph:1 transitions:show numbers:hide</ATTRIBUTE>
+<ATTRIBUTE name="Connector marks" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Type" type="STRING">Certificate</ATTRIBUTE>
+<ATTRIBUTE name="Change counter" type="INTEGER">1121</ATTRIBUTE>
+<ATTRIBUTE name="Font size" type="INTEGER">0</ATTRIBUTE>
+<ATTRIBUTE name="Context of version" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Position" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="__GfxThumb__" type="LONGSTRING">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aBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0CgARGgUACI0CgARGgWACI0CQIRGASBCowAQoVEAiNAoAERoFAAiNAoAERoFgAiNAkCERgEgQqMAEKFRAIjQKABEaBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0CgARGgUACI0CgARGgWACI0CQIRGASBCowAQoVEAiNAoAERoFAAiNAoAERoFgAiNAkCERgEgQqMAEKFRAIjQKABEaBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0CgARGgUACI0CgARGgWACI0CQIRGASBCowAQoVEAiNAoAERoFAAiNAoAERoFgAiNAkCERgEgQqMAEKFRAIjQKABEaBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0CgARGgUACI0CgARGgWACI0CQIRGASBCowAQoVEAiNAoAERoFAAiNAoAERoFgAiNAkCERgEgQqMAEKFRAIjQKABEaBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0CgARGgUACI0CgARGgWACI0CQIRGASBCowAQoVEAiNAoAERoFAAiNAoAERoFgAiNAkCERgEgQqMAEKFRAIjQKABEaBQAIjQKABEaBYAIjQJAhEYBIEKjABChUQCI0P4faRQYER8ZwMUAAAAASUVORK5CYII=</ATTRIBUTE>
+<ATTRIBUTE name="Freigabekommentar (Auflage)" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Freigabe" type="ENUMERATION">Yes</ATTRIBUTE>
+<ATTRIBUTE name="Version" type="STRING"></ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.12441" class="Institution" name="Institution-13403">
+<ATTRIBUTE name="Position" type="STRING">NODE x:4.5cm y:2cm index:1</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="InstitutionID" type="STRING">University of Q4711</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12444" class="Course" name="DI-WW-II">
+<ATTRIBUTE name="Position" type="STRING">NODE x:11cm y:5cm index:2</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="CourseID" type="STRING">   DI-WW-II</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12447" class="Grade" name="Grade-13415">
+<ATTRIBUTE name="Position" type="STRING">NODE x:22.5cm y:1.5cm index:3</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Result" type="STRING">PASSED 78%</ATTRIBUTE>
+<ATTRIBUTE name="Grade" type="DOUBLE">78</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12450" class="Student" name="Student-13418">
+<ATTRIBUTE name="Position" type="STRING">NODE x:17cm y:2.5cm index:4</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="StudentID" type="STRING">123-456-78</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12453" class="Student" name="Student-13427">
+<ATTRIBUTE name="Position" type="STRING">NODE x:17cm y:5.5cm index:5</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="StudentID" type="STRING">234-567-89</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12456" class="Course" name="DI-MM-I">
+<ATTRIBUTE name="Position" type="STRING">NODE x:11cm y:2cm index:7</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="CourseID" type="STRING">   DI-MM-I</ATTRIBUTE>
+</INSTANCE>
+<INSTANCE id="obj.12459" class="Grade" name="Grade-21204">
+<ATTRIBUTE name="Position" type="STRING">NODE x:22.5cm y:6cm index:13</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Result" type="STRING">FAILED 46%</ATTRIBUTE>
+<ATTRIBUTE name="Grade" type="DOUBLE">0</ATTRIBUTE>
+</INSTANCE>
+<CONNECTOR id="con.12462" class="OfferCourse">
+<FROM instance="Institution-13403" class="Institution"></FROM>
+<TO instance="DI-MM-I" class="Course"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 1 x1:10cm y1:3cm index:9</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12463" class="OfferCourse">
+<FROM instance="Institution-13403" class="Institution"></FROM>
+<TO instance="DI-WW-II" class="Course"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 2 x1:10cm y1:3.5cm x2:10cm y2:6.5cm index:10</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12464" class="InscribedIn">
+<FROM instance="DI-WW-II" class="Course"></FROM>
+<TO instance="Student-13427" class="Student"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 1 x1:16cm y1:6cm index:11</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12465" class="InscribedIn">
+<FROM instance="DI-WW-II" class="Course"></FROM>
+<TO instance="Student-13418" class="Student"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 2 x1:16cm y1:6cm x2:16cm y2:4cm index:12</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12466" class="CourseGrade">
+<FROM instance="DI-WW-II" class="Course"></FROM>
+<TO instance="Grade-21204" class="Grade"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 2 x1:16cm y1:7cm x2:16cm y2:8cm index:15</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12467" class="StudentGrade">
+<FROM instance="Student-13418" class="Student"></FROM>
+<TO instance="Grade-13415" class="Grade"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 1 x1:21cm y1:3.5cm index:6</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12468" class="StudentGrade">
+<FROM instance="Student-13427" class="Student"></FROM>
+<TO instance="Grade-21204" class="Grade"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 1 x1:20.5cm y1:6.5cm index:14</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12469" class="InscribedIn">
+<FROM instance="DI-MM-I" class="Course"></FROM>
+<TO instance="Student-13418" class="Student"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 1 x1:16cm y1:3.5cm index:8</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.12470" class="CourseGrade">
+<FROM instance="DI-MM-I" class="Course"></FROM>
+<TO instance="Grade-13415" class="Grade"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 2 x1:16cm y1:3cm x2:16cm y2:2cm index:16</ATTRIBUTE>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>
